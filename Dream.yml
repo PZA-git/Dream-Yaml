@@ -1,0 +1,57 @@
+---
+Mechta:
+  1otdel:
+    - Olga:
+        job: Buh
+    - Olga:
+        job: Buh
+    - Olga:
+        job: Buh
+    - Olga:
+        job: Buh
+    - Dmitryi
+    - Dmitryi
+    - Dmitryi
+    - Ivan
+    - Ivan
+  2otdel:
+    - Roman:
+        job: Yurist
+    - Roman:
+        job: Yurist
+    - Roman:
+        job: Yurist
+    - Roman:
+        job: Yurist
+    - Maxim:
+        job: Driver
+    - Maxim:
+        job: Driver
+  3otdel:
+    - Olga:
+        job: Buh
+    - Ivan:
+        job: stroitel
+    - Nikolay:
+        job: stroitel
+  4otdel & 5otdel:
+    - Yula:
+        job: pepper work
+        yo: 30+
+    - Yula:
+        job: pepper work
+        yo: 30+
+    - Yula:
+        job: pepper work
+        yo: 30+
+    - Yula:
+        job: pepper work
+        yo: 30+
+    - Yula:
+        job: pepper work
+        yo: 30+
+  6otdel:
+    - Igor Viktorovich:
+        job: security head
+        yo: 50++
+---
